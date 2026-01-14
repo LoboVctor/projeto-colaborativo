@@ -1,0 +1,4 @@
++Configurar ambiente
++Criar estrutura do projeto
++Criação da Branch
++Commit das alterações
